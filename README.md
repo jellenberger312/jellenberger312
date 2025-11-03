@@ -19,4 +19,4 @@ I’m a computer science student at CU Boulder who is passionate about programmi
 
 ## Let’s Connect!
 
-- LinkedIn: [[your-linkedin-url] ](https://www.linkedin.com/in/jackson-ellenberger/) 
+- LinkedIn: https://www.linkedin.com/in/jackson-ellenberger/
