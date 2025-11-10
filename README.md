@@ -7,7 +7,7 @@ I’m a computer science student at CU Boulder who is passionate about programmi
 ## About Me
 
 - Currently studying Computer Science  
-- Interested in AI, machine learning, and robotics  
+- Interested in AI, machine learning, and biology  
 - Enjoy working with Python, Java, and C++  
 - Active in study groups and coding communities  
 
@@ -15,7 +15,6 @@ I’m a computer science student at CU Boulder who is passionate about programmi
 
 - Personal projects and practice code  
 - Collaborative group work and class assignments  
-- Explorations into AI and emerging tech  
 
 ## Let’s Connect!
 
